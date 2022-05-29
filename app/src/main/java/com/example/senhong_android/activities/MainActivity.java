@@ -1,8 +1,10 @@
-package com.example.senhong_android;
+package com.example.senhong_android.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.senhong_android.R;
 
 public class MainActivity extends AppCompatActivity {
 
